@@ -1,0 +1,54 @@
+
+<html>
+<head>
+	<title>pagina sobre la ludopatia</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 20px:
+		}
+		.encabezado {
+			text-align: center;
+			margin-bottom: 30px;
+		}
+		.encabezado img { 
+			width: 100px;
+			height: auto;
+			vertical-align: middle; 
+		}
+		.encabezado h2 { 
+			display: inline-block;
+			margin-left: 15px;
+			vertical-align: middle;
+			font-size: 24px;
+			color: #003366;
+		}
+	</style>
+</head>
+<body style="background-color:lightblue;">
+<div class="encabezado">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1JiP4cFhf6_jZNVKERzTesfkxBoORtNR-k_jQmwTJ7lk-e06YV-2aa0cAKWziXAeFTa3xEt9I2a-wlMTjeCrCxGy4CWZPTeBkEQv94_8CeKJmYFf_aIqkXgasGuTfI8NKaLMFjaKcfDGp/s1600/Escuela-T%C3%A9cnica-N%C2%BA6-Comandante-Manuel-Besares---Escudo.png"
+<h2>Escuela Tecnica N°6 Comandante Manuel Besares</h2>
+</div> 
+<h1>Ludopatia</h1>
+<iframe width="560" height="315" src="mivideo2.mp4" title="La Ludopatia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p style="color: red;">La <b>ludopatia</b> es una <i>adiccion al juego</i> q afecta a muchas personas en el mundo. se caracteriza por ser la necesidad de jugar, incluso cuando esto genera concecuencias negativas en la vida personal, familiar y económica.
+</P>
+<img src="https://staticnew-prod.topdoctors.cl/files/Image/large/d881f10238b2ab924fcec5e29631b154.jpg" alt="imagen sobre el juego">
+<h3 style="color:blue;">Causas principales: </h3>
+<ul><li>Falta de control de impulsos.</li>
+<li>Nesesidad de emciones fueres.</li>
+<li>Creer que se puede ganar dinero fácil.</li>
+<li>Publicidad constante de apuestas y casinos. </ul>
+<img src="https://www.palermo.com.ar/assets/upload/app_calendario_eventos/image/237__9205d6fa0d899c4fee5cd71fea8c891c_712x340.jpg" alt="imagen sobre el juego">
+<h3>Consecuencias:</h3>
+<ol style="color: purple;"><li>Problemas economicos.</li>
+<li>Conflictos familiares.</li>
+<li>Ansiedad y depreción.</li></ol>
+<h2>Prevencion:</h2>
+<p style="background-color:yellow;">La prevención conciste en la <b>Educación</b> y el <i>Acompañamiento profecional</i> para las personas en riesgo. Hablar del tema en las escuelas y comunidades es fundamental para generar conciencia y evitar el inicio del hábito del juego.</p>
+<video width="500" controls>
+<source src="mivideo.mp4" type="video/mp4">
+</video>
+</body>
+</html>
